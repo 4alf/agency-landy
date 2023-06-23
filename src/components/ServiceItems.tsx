@@ -1,7 +1,7 @@
-import React from 'react'
-import Image from 'next/image'
-import { IList } from 'mock/type'
-import { motion } from 'framer-motion'
+import React from 'react';
+import Image from 'next/image';
+import { IList } from 'mock/type';
+import { motion } from 'framer-motion';
 
 const ServiceItem: React.FC<IList> = ({ icon, text }) => {
     return (
