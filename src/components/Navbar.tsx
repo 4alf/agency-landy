@@ -1,10 +1,10 @@
-import Link from 'next/link'
-import { useState } from 'react'
-import { links } from 'mock/data'
-import { motion } from 'framer-motion'
-import ActiveLink from 'utils/ActiveLink'
-import { Transition } from '@headlessui/react'
-import { MenuIcon, CloseIcon, LogoLarge, LogoSmall } from 'utils/Icons'
+import Link from 'next/link';
+import { useState } from 'react';
+import { links } from 'mock/data';
+import { motion } from 'framer-motion';
+import ActiveLink from 'utils/ActiveLink';
+import { Transition } from '@headlessui/react';
+import { MenuIcon, CloseIcon, LogoLarge, LogoSmall } from 'utils/Icons';
 
 interface NavBarProps {
   className: string
