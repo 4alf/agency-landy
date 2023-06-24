@@ -34,16 +34,12 @@ export const service = [
         text: 'Software Development'
       },
       {
-        icon: '/images/services/services2.png',
-        text: 'Multimedia Arts and Design'
-      },
-      {
         icon: '/images/services/services3.png',
         text: 'Web Development'
       },
       {
         icon: '/images/services/services4.png',
-        text: 'Web Design & Development'
+        text: 'Web Design'
       },
       {
         icon: '/images/services/services5.png',
